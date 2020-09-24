@@ -1,0 +1,9 @@
+F:\Project\EasyClinic\EasyClinicIBL\bin\Debug\EasyClinicIBL.dll
+F:\Project\EasyClinic\EasyClinicIBL\bin\Debug\EasyClinicIBL.pdb
+F:\Project\EasyClinic\EasyClinicIBL\bin\Debug\EasyClinicModel.dll
+F:\Project\EasyClinic\EasyClinicIBL\bin\Debug\EasyClinicModel.pdb
+F:\Project\EasyClinic\EasyClinicIBL\obj\Debug\EasyClinicIBL.csprojAssemblyReference.cache
+F:\Project\EasyClinic\EasyClinicIBL\obj\Debug\EasyClinicIBL.csproj.CoreCompileInputs.cache
+F:\Project\EasyClinic\EasyClinicIBL\obj\Debug\EasyClinicIBL.csproj.CopyComplete
+F:\Project\EasyClinic\EasyClinicIBL\obj\Debug\EasyClinicIBL.dll
+F:\Project\EasyClinic\EasyClinicIBL\obj\Debug\EasyClinicIBL.pdb

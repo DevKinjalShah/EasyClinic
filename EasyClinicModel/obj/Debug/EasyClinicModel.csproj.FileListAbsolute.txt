@@ -1,0 +1,6 @@
+F:\Project\EasyClinic\EasyClinicModel\bin\Debug\EasyClinicModel.dll
+F:\Project\EasyClinic\EasyClinicModel\bin\Debug\EasyClinicModel.pdb
+F:\Project\EasyClinic\EasyClinicModel\obj\Debug\EasyClinicModel.csprojAssemblyReference.cache
+F:\Project\EasyClinic\EasyClinicModel\obj\Debug\EasyClinicModel.csproj.CoreCompileInputs.cache
+F:\Project\EasyClinic\EasyClinicModel\obj\Debug\EasyClinicModel.dll
+F:\Project\EasyClinic\EasyClinicModel\obj\Debug\EasyClinicModel.pdb

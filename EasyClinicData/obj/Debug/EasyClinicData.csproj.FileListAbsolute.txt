@@ -1,0 +1,12 @@
+F:\Project\EasyClinic\EasyClinicData\bin\Debug\EasyClinicData.dll.config
+F:\Project\EasyClinic\EasyClinicData\bin\Debug\EasyClinicData.dll
+F:\Project\EasyClinic\EasyClinicData\bin\Debug\EasyClinicData.pdb
+F:\Project\EasyClinic\EasyClinicData\bin\Debug\EntityFramework.dll
+F:\Project\EasyClinic\EasyClinicData\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\EasyClinic\EasyClinicData\bin\Debug\EntityFramework.xml
+F:\Project\EasyClinic\EasyClinicData\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\EasyClinic\EasyClinicData\obj\Debug\EasyClinicData.csprojAssemblyReference.cache
+F:\Project\EasyClinic\EasyClinicData\obj\Debug\EasyClinicData.csproj.CoreCompileInputs.cache
+F:\Project\EasyClinic\EasyClinicData\obj\Debug\EasyClinicData.csproj.CopyComplete
+F:\Project\EasyClinic\EasyClinicData\obj\Debug\EasyClinicData.dll
+F:\Project\EasyClinic\EasyClinicData\obj\Debug\EasyClinicData.pdb
